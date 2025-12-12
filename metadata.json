@@ -1,0 +1,7 @@
+{
+  "name": "CARVA ver0.026 (UI Fixes10)",
+  "description": "Finally I've fixed all of the annoying bugs but there is still some annoying bugs, the app isn't done yet its just a MVP don't expect a lot",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
